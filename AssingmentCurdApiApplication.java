@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AssingmentCurdApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AssingmentCurdApiApplication.class, args);
+		SpringApplication.run(AssingmentCurdApiApplication.class,args);
 	}
 
 }
