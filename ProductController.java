@@ -78,6 +78,6 @@ public class ProductController {
 	public String DeleteProductById(@PathVariable int productid)
 	{
 		productRepo.deleteById(productid);
-		return "Product Deleted Sucessfully";
+		return "Product Deleted";
 	}
 }
